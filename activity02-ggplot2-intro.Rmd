@@ -145,7 +145,7 @@ Then, go to GitHub and compare/contrast your `activity02-ggplot2-intro.Rmd` and 
 Which is easier to read?
 Which looks more professional?
 
-**Response**:
+**Response**: 
 
 
 Now, wouldn't it be nice if we could combine these two plots so that we get the benefits of both!?!
